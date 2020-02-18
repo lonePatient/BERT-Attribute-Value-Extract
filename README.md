@@ -28,7 +28,3 @@ download link: [BaiDuYun](https://pan.baidu.com/s/1pChOPH0bShN5elcH2rSbcw)
 
 1. Modify the configuration information in `run_attr_crf.py` or `run_attr_crf.sh` .
 2. `sh run_attr_crf.sh`
-
-### result
-
-coming soon
